@@ -446,3 +446,7 @@ License: Creative Commons Attribution 3.0
 - **Author :** Amir Shokri
 - **License :** Apache-2.0 License
 - **Contribue :** Fork & PR
+
+
+## Related
+- https://github.com/amirshnll/quran-wordcloud
