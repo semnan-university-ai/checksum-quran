@@ -447,6 +447,7 @@ License: Creative Commons Attribution 3.0
 - **License :** Apache-2.0 License
 - **Contribue :** Fork & PR
 
+<br />
 
 ## Related
-- https://github.com/amirshnll/quran-wordcloud
+- [quran wordcloud](https://github.com/amirshnll/quran-wordcloud)
